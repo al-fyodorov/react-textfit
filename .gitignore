@@ -1,6 +1,8 @@
-node_modules
-*.log
-.DS_Store
-dist
-lib
-coverage
+examples/
+node_modules/
+src/
+test/
+.babelrc
+.eslint*
+.travis.yml
+webpack.config.js
